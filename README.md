@@ -1,5 +1,5 @@
 ## 📌 Description
-**PlayStore App Comment Sentiment Analysis** is a natural language model that can identify the comment is positive, neutral, or negative. 
+**PlayStation App Comment Sentiment Analysis** is a natural language model that can identify whether a comment in the PlayStore is positive, neutral, or negative. 
 
 ## 🚀 Features
 - Input some text to identify whether the comment is positive, neutral, or negative.
